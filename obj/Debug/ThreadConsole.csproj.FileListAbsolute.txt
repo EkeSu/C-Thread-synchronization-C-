@@ -1,0 +1,14 @@
+E:\c#\ThreadTest\ThreadConsole\bin\Debug\ThreadConsole.exe.config
+E:\c#\ThreadTest\ThreadConsole\bin\Debug\ThreadConsole.exe
+E:\c#\ThreadTest\ThreadConsole\bin\Debug\ThreadConsole.pdb
+E:\c#\ThreadTest\ThreadConsole\obj\Debug\ThreadConsole.csprojAssemblyReference.cache
+E:\c#\ThreadTest\ThreadConsole\obj\Debug\ThreadConsole.csproj.CoreCompileInputs.cache
+E:\c#\ThreadTest\ThreadConsole\obj\Debug\ThreadConsole.exe
+E:\c#\ThreadTest\ThreadConsole\obj\Debug\ThreadConsole.pdb
+E:\c#\ThreadTest\ThreadConsole\bin\Debug\Dapper.dll
+E:\c#\ThreadTest\ThreadConsole\bin\Debug\Google.Protobuf.dll
+E:\c#\ThreadTest\ThreadConsole\bin\Debug\MySql.Data.dll
+E:\c#\ThreadTest\ThreadConsole\bin\Debug\Dapper.xml
+E:\c#\ThreadTest\ThreadConsole\bin\Debug\Google.Protobuf.xml
+E:\c#\ThreadTest\ThreadConsole\bin\Debug\MySql.Data.xml
+E:\c#\ThreadTest\ThreadConsole\obj\Debug\ThreadConsole.csproj.CopyComplete
